@@ -1,0 +1,2 @@
+Please, locate your text file train.csv in {locationOfYourJar}/jar/src/main/resources for properly working of the program!
+DO NOT change the sequence of csv columns names
